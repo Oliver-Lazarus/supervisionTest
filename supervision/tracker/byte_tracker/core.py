@@ -214,7 +214,7 @@ class ByteTrack:
     def __init__(
         self,
         track_activation_threshold: float = 0.25,
-        lost_track_buffer: int = 30,
+        lost_track_buffer: int = 200,
         minimum_matching_threshold: float = 0.8,
         frame_rate: int = 30,
     ):
