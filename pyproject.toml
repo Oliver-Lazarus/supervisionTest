@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "supervision"
+name = "supervisionTest"
 version = "0.19.0rc5"
 description = "A set of easy-to-use utils that will come in handy in any Computer Vision project"
 authors = ["Piotr Skalski <piotr.skalski92@gmail.com>"]
